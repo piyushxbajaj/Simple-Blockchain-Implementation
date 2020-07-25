@@ -41,7 +41,7 @@ class Blockchain(object):
         :param amount: <in> Amount
         :return: <int> The index of the Block that will hold this transaction
         """
-        self.current_transactions({
+        self.current_transactions.append({
             'sender': sender,
             'recipient': recipient,
             'amount': amount,
