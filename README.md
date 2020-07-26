@@ -19,14 +19,14 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-I made the project on Pycharm so you just need to open the p
+I made the project on Pycharm so you just need to open the project
 
 ```
 $ python blockchain.py
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
 
-And repeat
+these are the app routes I created
 
 ```
 /chain
