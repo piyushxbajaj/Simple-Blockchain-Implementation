@@ -14,7 +14,7 @@ What things you need to install the software and how to install them
 -Python 3.6+
 -Flask
 -pip
--Postman (terminal cal also work)
+-Postman (terminal can also work)
 ```
 
 ### Installing
