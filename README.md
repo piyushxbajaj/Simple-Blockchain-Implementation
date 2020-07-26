@@ -1,4 +1,4 @@
-## Simple Block chain Implementation
+# Simple Block chain Implementation
 
 I implemented block chain using python3.7 to gain a basic knowledge of how it works
 
